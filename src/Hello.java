@@ -6,5 +6,7 @@ public class Hello {
         int b = 0;
         int c = 1;
 
+        System.out.println("이거 너가 받아서 사용해봐");
+
     }
 }
