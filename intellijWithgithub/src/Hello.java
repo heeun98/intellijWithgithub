@@ -13,5 +13,14 @@ public class Hello {
             int number = i;
             System.out.println(number);
         }
+
+        while(true) {
+            System.out.println("1");
+            System.out.println("1");
+            System.out.println("1");
+            System.out.println("1");
+            System.out.println("1");
+            System.out.println("1");
+        }
     }
 }
