@@ -22,5 +22,8 @@ public class Hello {
             System.out.println("1");
             System.out.println("1");
         }
+
+
+        System.out.println("안녕하세여");
     }
 }
